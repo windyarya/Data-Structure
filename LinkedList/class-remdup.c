@@ -1,4 +1,5 @@
-// C program to remove duplicate elements in a single linked list
+// C program to remove duplicate elements in a single linked list - Tugas 2 Pak Hari
+
 #include <stdio.h>
 #include <stdlib.h>
 

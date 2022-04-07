@@ -1,4 +1,4 @@
-// C program to sort Linked List
+// C program to sort Linked List - Tugas 2 Pak Hari
 
 #include <stdio.h>
 #include <stdlib.h>
